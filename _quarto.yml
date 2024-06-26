@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: access-control-foo.qmd
-        text: Access Control Foo
+      - href: access-security-broker.qmd
+        text: Access Security Broker
 
 format:
   html:
