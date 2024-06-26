@@ -1,5 +1,0 @@
----
-title: "Access Control Foo"
----
-
-About this site
