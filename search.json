@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Learning Access Control - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Access Control Foo\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Access Control Foo)\n  B --&gt; F{Abstract UC: Master Access Control}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Access Control\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Access Control Foo)\n  B --&gt; F{Abstract UC: Master Access Control}"
   },
   {
     "objectID": "about.html",
